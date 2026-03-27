@@ -146,6 +146,12 @@ codes/
 
 ---
 
+## 🚧 Under Active Development
+
+This game is currently **under active development**! 🛠️ More scripts, systems, and features will be added over time as the game evolves. Stay tuned for updates — there's a lot more to come!
+
+---
+
 ## 📜 License
 
 These scripts are provided as open-source references for learning and building Roblox games.
